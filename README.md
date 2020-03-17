@@ -51,7 +51,7 @@ npm run dev
 ```
 
 
-# 效果演示
+## 效果演示
 
 #### (可在后台管理系统添加商铺，食品等数据，并在前端地址查看效果)
 
@@ -100,7 +100,7 @@ npm run dev
 - [x] 部署上线 -- 完成
 
 
-# API接口文档
+## API接口文档
 
 ## [接口文档地址](https://github.com/bailicangdu/node-elm/blob/master/API.md)
 
@@ -123,7 +123,7 @@ npm run dev
 
 
 
-# 项目布局
+## 项目布局
 
 ```
 .
@@ -174,7 +174,7 @@ npm run dev
 │   │   └── explain.js              解析说明
 │   └── v4
 ├── logs                            日志文件
-├── middlewares                     中间价
+├── middlewares                     中间件
 │   ├── check.js                    权限验证    
 │   └── statistic.js                API数据统计
 ├── models                          模型(数据库)
@@ -248,11 +248,6 @@ npm run dev
 
 ```
 
-
-
-
-# License
+## License
 
 [GPL](https://github.com/bailicangdu/node-elm/blob/master/COPYING)
-
-
